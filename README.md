@@ -2,7 +2,7 @@
   <img src="https://i.imgur.com/y3FIX3d.png">
 </p>
 
-# Welcome to IBRACORP
+# Welcome
 
 Looking for our documentation? It's currently under contruction.
 ### All our videos and their accompanying guides can be found at https://ibracorp.io
