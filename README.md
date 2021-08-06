@@ -6,10 +6,8 @@
 
 ### Looking for our documentation? 
 It's currently under contruction! \
-All our videos and their accompanying guides can be found at **https://ibracorp.io**
-
-As docs are being migrated to their new home, be aware that other repos here at IBRACORP are subject to change location. \
-We will update this page with more information as it happens!
+All our videos and their accompanying guides can be found at **https://ibracorp.io** \
+**Our new Documentation website is now live! You can find it at https://docs.ibracorp.io**
 
 
 ### Our Links
